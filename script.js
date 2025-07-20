@@ -1,5 +1,5 @@
-const BOT_TOKEN = '7741011440:AAG5NJyQ71q5wpdOoDci32UgQDgBFXsF_XM';
-const CHAT_ID = '-1002647674903';
+const BOT_TOKEN = '7776795955:AAFTdpBX8tGkjhwklcYVQPhp5Kdl0aLegV4';
+const CHAT_ID = '-1002809065944';
 
 let timeLeft = 15 * 60;
 const countdownEl = document.getElementById("countdown");
